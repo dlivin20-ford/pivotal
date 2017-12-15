@@ -22,7 +22,8 @@ The library is far from complete, the API is perhaps only 10% supported so far, 
 
 This library is available via Gradle, Maven, SBT, Leiningen and compatible dependency management tools through the excellent JitPack:
 
-[![Release](https://jitpack.io/v/sanity/pivotal.svg)](https://jitpack.io/#sanity/pivotal)
+[![](https://jitpack.io/v/dlivin20-ford/pivotal.svg)](https://jitpack.io/#dlivin20-ford/pivotal)
+
 
 Note that we follow the [Semantic Versioning](http://semver.org/) convention for version numbers.
 
@@ -34,4 +35,4 @@ Contributions to support more of the API are very welcome, the basic framework i
 * [onespot.pivotal.api.dao](https://github.com/onespot/pivotal/tree/master/src/main/java/onespot/pivotal/api/dao) - Classes that correspond roughly to [endpoints](https://www.pivotaltracker.com/help/api/rest/v5#Endpoints) in the Pivotal API
 * [onespot.pivotal.rest](https://github.com/onespot/pivotal/tree/master/src/main/java/onespot/pivotal/rest) - The REST machinery (uses [Google Gson](https://code.google.com/p/google-gson/) for POJO-JSON mapping)
 
-Feel free to create pull requests, however it can be easy to overlook these notifications so you may also want to email me at **pivotalpr [at] ian [dot] 33mail [dot] com** to ensure I'm aware of it so I can review and merge promptly.
+
