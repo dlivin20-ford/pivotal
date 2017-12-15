@@ -50,7 +50,9 @@ public class ProjectMembership {
     public Person person() {
         return person;
     }
-
+    public Person getPerson() {
+        return person;
+    }
     public void setPerson(Person person) {
         this.person = person;
     }
